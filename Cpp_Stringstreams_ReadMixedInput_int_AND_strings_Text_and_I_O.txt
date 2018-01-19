@@ -1,0 +1,13 @@
+This program is for reading mixed input strings amd ints; If user do some mistakes amd input e33 instead of 33.
+Than prints ONLY ints (and corrected ones too).
+
+Input: 3 e33 333rrr 34rr34
+The program asking: unparsed numbers: e33 333rrr 34rr34 enter again:
+You enter: 33 333 3434
+Output:3 33 333 3434
+
+enter the array elements: 3 e33 333rrr 34rr34
+unparsed numbers: e33 333rrr 34rr34 enter again: 33 333 3434
+arr1 elements: 3 33 333 3434
+Press any key to continue . . .
+
